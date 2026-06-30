@@ -15,13 +15,13 @@ The dashboards are designed to support supply chain decision-making by the ACE-5
 
 | Field | Detail |
 |---|---|
-| Programme | ECEWS ACE-5 (Achieving Epidemic Control — Phase 5) |
-| Implementing Partner | ECEWS (Excellence & Friends Management Care Centre) |
+| Programme | ECEWS ACE-5 |
+| Implementing Partner | ECEWS |
 | Funder | PEPFAR / USAID |
 | State | Lagos State, Nigeria |
 | Health Facilities | 55 reporting sites |
-| Reporting System | DHIS2 (District Health Information System 2) |
-| Reporting Cadence | Weekly (Wednesday cutoff, SOH as at physical count) |
+| Reporting System | DHIS2  |
+| Reporting Cadence | Weekly SOH as at physical count) |
 
 ---
 
